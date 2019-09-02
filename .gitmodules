@@ -1,0 +1,4 @@
+[submodule "extra-addons/mexico"]
+	path = extra-addons/mexico
+	url = git@git.indboo.com:Indboo-dev/mexico.git
+	branch = 12.0
